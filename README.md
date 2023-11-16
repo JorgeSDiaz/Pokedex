@@ -22,12 +22,20 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Technology Stack
+
+The project is built using the following technology stack:
+- **Programming Language:** TypeScript (Nest framework)
+- **Framework:** Nest
+- **Database:** MongoDB
+- **Containerization:** Docker
+
 ## Execute in Development
 1. First we clone the repository
    ```
     git clone https://github.com/JorgeSDiaz/Pokedex.git
    ```
-2. We position inside the directory and install the packages
+2. We go into the directory and install the packages
    ```
     cd Pokedex
     npm install
@@ -40,9 +48,4 @@
    ```
     docker-compose up -d
    ```
-
-## Technology Stack
-
-The project is built using the following technology stack:
-  - Nest
-  - MongoDB
+--- 
